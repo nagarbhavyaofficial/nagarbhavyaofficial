@@ -2,7 +2,8 @@
 
 ---
 
-### 📞 **Contact Information** 📧
+## 📞 **Contact Information** 📧
+
 - **Phone**: [Your Phone Number] 📱
 - **Email**: [Your Email Address] 📧
 - **LinkedIn**: [Your LinkedIn Profile] 🔗
@@ -11,12 +12,13 @@
 
 ---
 
-### 🚀 **Professional Summary** 🎯
+## 🚀 **Professional Summary** 🎯
+
 Innovative and dedicated **Full-Stack Flutter Developer** with a passion for integrating cutting-edge AI technologies. Proficient in crafting intelligent, feature-rich applications using Flutter and Dart, with expertise in backend development and AI. Skilled in delivering high-quality solutions from concept to deployment, including sophisticated UI/UX design, state management, and cloud-based AI integration. Driven by leveraging advanced technology to address real-world challenges and enhance user experiences. 🌟
 
 ---
 
-### 🛠️ **Skills** 💻
+## 🛠️ **Skills** 💻
 
 - **Programming Languages**: Dart 🦄, JavaScript (Node.js) 🌐
 - **Frontend**: Flutter 🎨, Dart, UI/UX Design 💡, Responsive Design 📱
@@ -31,7 +33,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ---
 
-### 💼 **Experience** 💼
+## 💼 **Experience** 💼
 
 **Full-Stack Flutter Developer**  
 *Red & White Multimedia Education*  
@@ -52,7 +54,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ---
 
-### 🏆 **Projects** 📈
+## 🏆 **Projects** 📈
 
 **1. To-Do App** 📝  
 - Developed a basic Flutter application to practice state management and UI design 🎨.
@@ -80,7 +82,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ---
 
-### 🎓 **Education** 🎓
+## 🎓 **Education** 🎓
 
 **Bachelor of Computer Applications (BCA)**  
 *Christ College*  
@@ -88,7 +90,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ---
 
-### 📜 **Certifications** 🎖️
+## 📜 **Certifications** 🎖️
 
 - **TensorFlow Developer Certificate** 🧠
 - **AWS Machine Learning Specialty** ☁️
@@ -96,22 +98,23 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ---
 
-### 📚 **Professional Development** 📚
+## 📚 **Professional Development** 📚
 
 - **Courses**: Advanced Flutter Development 📚, AI and Machine Learning Integration 🧠
 - **Workshops**: Cloud Deployment Strategies ☁️, AI in Application Development 🤖
 
 ---
 
-### 🌍 **Languages** 🗣️
+## 🌍 **Languages** 🗣️
 
 - **English**: Fluent 🇬🇧
 - **[Other Languages]**: [Specify if applicable] 🌐
 
 ---
 
-### 🔗 **Additional Information** 🔗
+## 🔗 **Additional Information** 🔗
 
 - **GitHub Repositories**: [Link to your GitHub profile showcasing relevant projects] 🐙
 - **Portfolio**: [Link to your personal portfolio or project showcase] 🌐
 
+---
