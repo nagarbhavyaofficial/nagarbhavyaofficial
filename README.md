@@ -6,12 +6,9 @@
 
 | **Phone**               | **Email**              |
 |-------------------------|------------------------|
-| [Your Phone Number] 📱  | [Your Email Address] 📧 |
+| 6352153064 📱  | bhavyanagarofficial@outlook.com 📧 |
 | **LinkedIn**            | **GitHub**             |
-| [Your LinkedIn Profile] 🔗 | [Your GitHub Username] 🐙 |
-| **Portfolio**           |                        |
-| [Your Portfolio Website] 🌐 |                        |
-
+|  www.linkedin.com/in/bhavyanagarofficial 🔗 | nagarbhavyaoffical 🐙 |
 ---
 
 ## 🚀 **Professional Summary** 🎯
@@ -103,9 +100,9 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ## 📜 **Certifications** 🎖️
 
-- **TensorFlow Developer Certificate** 🧠
-- **AWS Machine Learning Specialty** ☁️
-- **Flutter Developer Certification** (Optional, if applicable) 📜
+- **Jr. Lab Coordinator** 🧠
+- **Master in flutter developer course** ☁️
+- **Bachelor Of Computer Applications** 📜
 
 ---
 
@@ -119,7 +116,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 ## 🌍 **Languages** 🗣️
 
 - **English**: Fluent 🇬🇧
-- **[Other Languages]**: [Specify if applicable] 🌐
+- **Gujarati**: Fluent  🌐
 
 ---
 
