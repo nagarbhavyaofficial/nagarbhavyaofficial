@@ -8,12 +8,13 @@
 |-------------------------|------------------------|
 | 6352153064 📱  | bhavyanagarofficial@outlook.com 📧 |
 | **LinkedIn**            | **GitHub**             |
-|  www.linkedin.com/in/bhavyanagarofficial 🔗 | nagarbhavyaoffical 🐙 |
+|  [www.linkedin.com/in/bhavyanagarofficial](https://www.linkedin.com/in/bhavyanagarofficial) 🔗 | [nagarbhavyaoffical](https://github.com/nagarbhavyaoffical) 🐙 |
+
 ---
 
 ## 🚀 **Professional Summary** 🎯
 
-Innovative and dedicated **Full-Stack Flutter Developer** with a passion for integrating cutting-edge technologies. Proficient in crafting intelligent, feature-rich applications using Flutter and Dart, with expertise in backend development and AI. Skilled in delivering high-quality solutions from concept to deployment, including sophisticated UI/UX design, state management, and cloud-based AI integration. Driven by leveraging advanced technology to address real-world challenges and enhance user experiences. 🌟
+Innovative and dedicated **Full-Stack MERN Developer** with a passion for integrating cutting-edge technologies. Proficient in crafting intelligent, feature-rich applications using the MERN stack and AI. Skilled in delivering high-quality solutions from concept to deployment, including sophisticated UI/UX design, state management, and cloud-based AI integration. Driven by leveraging advanced technology to address real-world challenges and enhance user experiences. 🌟
 
 ---
 
@@ -21,7 +22,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 | **Programming Languages** | **Frontend**                        |
 |---------------------------|-------------------------------------|
-| Dart 🦄, JavaScript (Node.js) 🌐 | Flutter 🎨, Dart, UI/UX Design 💡, Responsive Design 📱 |
+| JavaScript (Node.js) 🌐, Python 🐍 | React.js ⚛️, Next.js 🌐, UI/UX Design 💡, Responsive Design 📱 |
 
 | **Backend**                           | **Database**                   |
 |--------------------------------------|--------------------------------|
@@ -29,27 +30,27 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 | **AI & ML**                          | **Cloud**                       |
 |--------------------------------------|--------------------------------|
-| TensorFlow Lite 🤖, Google ML Kit 🧠, NLP 🌐, Image Recognition 📷, Speech-to-Text 🗣️ | AWS SageMaker ☁️, Google AI Platform 🌈, CI/CD 🔄, Docker 🐋, Cloud Functions 🌩️ |
+| TensorFlow 🤖, Google ML Kit 🧠, NLP 🌐, Image Recognition 📷, Speech-to-Text 🗣️ | AWS SageMaker ☁️, Google AI Platform 🌈, CI/CD 🔄, Docker 🐋, Cloud Functions 🌩️ |
 
 | **Tools & Frameworks**                | **State Management**            |
 |---------------------------------------|--------------------------------|
-| GitHub 🛠️, GitHub Actions ⚙️, CircleCI 🔄, Flask 🧪, FastAPI 🚀, Docker 🐋 | Provider 🛠️, Riverpod 🏞️, Bloc 🎭 |
+| GitHub 🛠️, GitHub Actions ⚙️, CircleCI 🔄, Flask 🧪, FastAPI 🚀, Docker 🐋 | Redux 🛠️, Context API 🌐, MobX 🏞️ |
 
 | **Testing**                           | **Version Control**             |
 |---------------------------------------|--------------------------------|
-| Unit Tests 🧪, Widget Tests 🧩, Integration Tests 🔗 | Git 🗂️, GitHub 🐙              |
+| Unit Tests 🧪, Integration Tests 🔗 | Git 🗂️, GitHub 🐙              |
 
 ---
 
 ## 💼 **Experience** 💼
 
-**Full-Stack Flutter Developer**  
+**Full-Stack MERN Developer**  
 *Red & White Multimedia Education*  
 *Sept 2024 – Present* 🌟
 
-- Developed and maintained Flutter applications with advanced UI/UX designs 🎨, state management 🛠️, and API integration 🔌.
+- Developed and maintained full-stack applications using the MERN stack, with advanced UI/UX designs 🎨, state management 🛠️, and API integration 🔌.
 - Integrated AI features such as NLP for chatbots 🗣️, image recognition 📸, and voice commands 🎤.
-- Collaborated on full-stack projects, including backend development with Node.js 🌐 and database management with MongoDB 📊 and PostgreSQL 📚.
+- Collaborated on backend development with Node.js 🌐 and database management with MongoDB 📊 and PostgreSQL 📚.
 - Implemented CI/CD pipelines 🔄 and containerized applications using Docker 🐋 for seamless deployment and scalability 🚀.
 
 **Management Leader**  
@@ -65,12 +66,12 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 ## 🏆 **Projects** 📈
 
 **To-Do App** 📝  
-- Developed a basic Flutter application to practice state management and UI design 🎨.
-- Implemented CRUD operations and utilized essential Flutter widgets 🛠️.
+- Developed a full-stack application with a React.js frontend and Node.js backend 🌐.
+- Implemented CRUD operations, user authentication, and state management 🔒.
 
 **Weather App** ☀️  
-- Created a weather application fetching live data from APIs 🌦️.
-- Integrated state management and API handling for real-time weather updates 🌍.
+- Created a weather application using React.js for the frontend and Node.js for API integration 🌦️.
+- Integrated state management and real-time weather updates 🌍.
 
 **Chatbot App** 🤖  
 - Built an AI-driven chatbot app using NLP for conversational interactions 🗣️.
@@ -78,7 +79,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 **Full-Stack E-commerce App** 🛒  
 - Developed a complete e-commerce platform with AI-based product recommendations 🛍️.
-- Built backend services using Node.js 🌐 and integrated with Flutter frontend 📱.
+- Built backend services using Node.js 🌐 and integrated with React.js frontend 📱.
 
 **AI-Powered SaaS Dashboard** 📊  
 - Created a dashboard with real-time analytics and cloud-based AI predictions 📈.
@@ -101,14 +102,14 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 ## 📜 **Certifications** 🎖️
 
 - **Jr. Lab Coordinator** 🧠
-- **Master in flutter developer course** ☁️
+- **Master in Full-Stack Development** ☁️
 - **Bachelor Of Computer Applications** 📜
 
 ---
 
 ## 📚 **Professional Development** 📚
 
-- **Courses**: Advanced Flutter Development 📚, AI and Machine Learning Integration 🧠
+- **Courses**: Advanced Full-Stack Development 📚, AI and Machine Learning Integration 🧠
 - **Workshops**: Cloud Deployment Strategies ☁️, AI in Application Development 🤖
 
 ---
@@ -122,7 +123,7 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ## 🔗 **Additional Information** 🔗
 
-- **GitHub Repositories**: [Link to your GitHub profile showcasing relevant projects] 🐙
-- **Portfolio**: [Link to your personal portfolio or project showcase] 🌐
+- **GitHub Repositories**: [Link to your GitHub profile showcasing relevant projects](https://github.com/nagarbhavyaoffical) 🐙
+- **Portfolio**: [Link to your personal portfolio or project showcase](#) 🌐
 
 ---
