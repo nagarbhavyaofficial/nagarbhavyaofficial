@@ -4,32 +4,43 @@
 
 ## 📞 **Contact Information** 📧
 
-- **Phone**: [Your Phone Number] 📱
-- **Email**: [Your Email Address] 📧
-- **LinkedIn**: [Your LinkedIn Profile] 🔗
-- **GitHub**: [Your GitHub Username] 🐙
-- **Portfolio**: [Your Portfolio Website] 🌐
+| **Phone**               | **Email**              |
+|-------------------------|------------------------|
+| [Your Phone Number] 📱  | [Your Email Address] 📧 |
+| **LinkedIn**            | **GitHub**             |
+| [Your LinkedIn Profile] 🔗 | [Your GitHub Username] 🐙 |
+| **Portfolio**           |                        |
+| [Your Portfolio Website] 🌐 |                        |
 
 ---
 
 ## 🚀 **Professional Summary** 🎯
 
-Innovative and dedicated **Full-Stack Flutter Developer** with a passion for integrating cutting-edge AI technologies. Proficient in crafting intelligent, feature-rich applications using Flutter and Dart, with expertise in backend development and AI. Skilled in delivering high-quality solutions from concept to deployment, including sophisticated UI/UX design, state management, and cloud-based AI integration. Driven by leveraging advanced technology to address real-world challenges and enhance user experiences. 🌟
+Innovative and dedicated **Full-Stack Flutter Developer** with a passion for integrating cutting-edge technologies. Proficient in crafting intelligent, feature-rich applications using Flutter and Dart, with expertise in backend development and AI. Skilled in delivering high-quality solutions from concept to deployment, including sophisticated UI/UX design, state management, and cloud-based AI integration. Driven by leveraging advanced technology to address real-world challenges and enhance user experiences. 🌟
 
 ---
 
 ## 🛠️ **Skills** 💻
 
-- **Programming Languages**: Dart 🦄, JavaScript (Node.js) 🌐
-- **Frontend**: Flutter 🎨, Dart, UI/UX Design 💡, Responsive Design 📱
-- **Backend**: Node.js 🚀, Express.js 🌐, NestJS 🏗️, RESTful APIs 🔌, JWT Authentication 🔑
-- **Database**: MongoDB 📊, PostgreSQL 📚, Firebase Firestore 🗃️
-- **AI & ML**: TensorFlow Lite 🤖, Google ML Kit 🧠, NLP 🌐, Image Recognition 📷, Speech-to-Text 🗣️
-- **Cloud**: AWS SageMaker ☁️, Google AI Platform 🌈, CI/CD 🔄, Docker 🐋, Cloud Functions 🌩️
-- **Tools & Frameworks**: GitHub 🛠️, GitHub Actions ⚙️, CircleCI 🔄, Flask 🧪, FastAPI 🚀, Docker 🐋
-- **State Management**: Provider 🛠️, Riverpod 🏞️, Bloc 🎭
-- **Testing**: Unit Tests 🧪, Widget Tests 🧩, Integration Tests 🔗
-- **Version Control**: Git 🗂️, GitHub 🐙
+| **Programming Languages** | **Frontend**                        |
+|---------------------------|-------------------------------------|
+| Dart 🦄, JavaScript (Node.js) 🌐 | Flutter 🎨, Dart, UI/UX Design 💡, Responsive Design 📱 |
+
+| **Backend**                           | **Database**                   |
+|--------------------------------------|--------------------------------|
+| Node.js 🚀, Express.js 🌐, NestJS 🏗️, RESTful APIs 🔌, JWT Authentication 🔑 | MongoDB 📊, PostgreSQL 📚, Firebase Firestore 🗃️ |
+
+| **AI & ML**                          | **Cloud**                       |
+|--------------------------------------|--------------------------------|
+| TensorFlow Lite 🤖, Google ML Kit 🧠, NLP 🌐, Image Recognition 📷, Speech-to-Text 🗣️ | AWS SageMaker ☁️, Google AI Platform 🌈, CI/CD 🔄, Docker 🐋, Cloud Functions 🌩️ |
+
+| **Tools & Frameworks**                | **State Management**            |
+|---------------------------------------|--------------------------------|
+| GitHub 🛠️, GitHub Actions ⚙️, CircleCI 🔄, Flask 🧪, FastAPI 🚀, Docker 🐋 | Provider 🛠️, Riverpod 🏞️, Bloc 🎭 |
+
+| **Testing**                           | **Version Control**             |
+|---------------------------------------|--------------------------------|
+| Unit Tests 🧪, Widget Tests 🧩, Integration Tests 🔗 | Git 🗂️, GitHub 🐙              |
 
 ---
 
@@ -56,27 +67,27 @@ Innovative and dedicated **Full-Stack Flutter Developer** with a passion for int
 
 ## 🏆 **Projects** 📈
 
-**1. To-Do App** 📝  
+**To-Do App** 📝  
 - Developed a basic Flutter application to practice state management and UI design 🎨.
 - Implemented CRUD operations and utilized essential Flutter widgets 🛠️.
 
-**2. Weather App** ☀️  
+**Weather App** ☀️  
 - Created a weather application fetching live data from APIs 🌦️.
 - Integrated state management and API handling for real-time weather updates 🌍.
 
-**3. Chatbot App** 🤖  
+**Chatbot App** 🤖  
 - Built an AI-driven chatbot app using NLP for conversational interactions 🗣️.
 - Integrated with Firebase for real-time data handling and user authentication 🔒.
 
-**4. Full-Stack E-commerce App** 🛒  
+**Full-Stack E-commerce App** 🛒  
 - Developed a complete e-commerce platform with AI-based product recommendations 🛍️.
 - Built backend services using Node.js 🌐 and integrated with Flutter frontend 📱.
 
-**5. AI-Powered SaaS Dashboard** 📊  
+**AI-Powered SaaS Dashboard** 📊  
 - Created a dashboard with real-time analytics and cloud-based AI predictions 📈.
 - Deployed AI models on AWS SageMaker ☁️ and implemented cloud functions for dynamic features 🌟.
 
-**6. AI-Driven Social Media App** 📱  
+**AI-Driven Social Media App** 📱  
 - Designed and developed a social media application featuring AI-driven content moderation 🧩 and real-time interactions 🌐.
 - Implemented advanced UI/UX with custom animations and optimized performance ⚙️.
 
