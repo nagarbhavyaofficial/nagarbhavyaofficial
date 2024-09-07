@@ -1,10 +1,11 @@
----
+
 
 # 🌟 **Bhavya Nagar** 🌟  
 ### Full-Stack Flutter Developer | AI Enthusiast | Innovator  
 *Red & White Multimedia Education*  
 
----
+![images](https://github.com/user-attachments/assets/f2fc2b43-29f8-445c-9c88-9b1ff324d83a)
+
 
 ## 📞 **Contact Information** 📧
 
