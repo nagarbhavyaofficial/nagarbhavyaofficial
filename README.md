@@ -1,4 +1,8 @@
-# 🌟 **Bhavya Nagar** 🌟
+---
+
+# 🌟 **Bhavya Nagar** 🌟  
+### Full-Stack Flutter Developer | AI Enthusiast | Innovator  
+*Red & White Multimedia Education*  
 
 ---
 
@@ -8,7 +12,8 @@
 |-------------------------|------------------------|
 | 6352153064 📱  | bhavyanagarofficial@outlook.com 📧 |
 | **LinkedIn**            | **GitHub**             |
-|  www.linkedin.com/in/bhavyanagarofficial 🔗 | nagarbhavyaoffical 🐙 |
+| [www.linkedin.com/in/bhavyanagarofficial](https://www.linkedin.com/in/bhavyanagarofficial) 🔗 | [nagarbhavyaoffical](https://github.com/nagarbhavyaoffical) 🐙 |
+
 ---
 
 ## 🚀 **Professional Summary** 🎯
