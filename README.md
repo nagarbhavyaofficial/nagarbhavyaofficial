@@ -66,7 +66,7 @@ Christ College | 2023
 Feel free to reach out to me at:
 - 📧 [email@example.com](mailto:email@bhavyanagarofficial@outlook.com)
 - 🌐 [LinkedIn](https://linkedin.com/in/bhavyanagarofficial)
-- 🐱 [GitHub](https://github.com/example)
+- 🐱 [GitHub](https://github.com/nagarbhavyaofficial)
 - 🌍 [Portfolio](https://example.com)
 
 ---
